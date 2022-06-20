@@ -1,0 +1,86 @@
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\bakharia\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+----------------------Question 1---------------------------------
+
+----------------------Standard Method---------------------------------
+
+
+'Accuracy Score: 0.5775773724123796'
+'Recall Score:   0.31013179571663924'
+'F1 Score:       0.42220353238015146'
+
+----------------------Log Method---------------------------------
+
+
+'Accuracy Score: 0.7638860422217667'
+'Recall Score:   0.8743822075782537'
+'F1 Score:       0.7865876250463134'
+
+----------------------Question 2---------------------------------
+
+
+'Accuracy Score: 0.7638860422217667'
+'Recall Score:   0.8743822075782537'
+'F1 Score:       0.7865876250463134'
+
+'Alpha 0.0001'
+'Accuracy Score: 0.8204550112728018'
+'Recall Score:   0.8706754530477759'
+'F1 Score:       0.8283699059561129'
+
+'Alpha 0.001'
+'Accuracy Score: 0.8321377331420373'
+'Recall Score:   0.8813838550247117'
+'F1 Score:       0.8393802706413022'
+
+'Alpha 0.01'
+'Accuracy Score: 0.8366468538634966'
+'Recall Score:   0.8768533772652389'
+'F1 Score:       0.8423343224530169'
+
+'Alpha 0.1'
+'Accuracy Score: 0.8132814101250256'
+'Recall Score:   0.8797364085667215'
+'F1 Score:       0.8242330696507812'
+
+'Alpha 1.0'
+'Accuracy Score: 0.7638860422217667'
+'Recall Score:   0.8743822075782537'
+'F1 Score:       0.7865876250463134'
+
+'Alpha 10.0'
+'Accuracy Score: 0.728427956548473'
+'Recall Score:   0.8488467874794069'
+'F1 Score:       0.7567468331191481'
+
+'Alpha 100.0'
+'Accuracy Score: 0.7181799549087928'
+'Recall Score:   0.627677100494234'
+'F1 Score:       0.689125028261361'
+
+'Alpha 1000.0'
+'Accuracy Score: 0.5054314408690306'
+'Recall Score:   0.006589785831960461'
+'F1 Score:       0.013087934560327199'
+
+----------------------Question 3---------------------------------
+
+
+'Accuracy Score: 0.79504'
+'Recall Score:   0.8604'
+'F1 Score:       0.8076143275512503'
+
+----------------------Question 4---------------------------------
+
+
+'Accuracy Score: 0.7822'
+'Recall Score:   0.84656'
+'F1 Score:       0.7953699875981812'
+
+----------------------Question 6---------------------------------
+
+
+'Accuracy Score: 0.62648'
+'Recall Score:   0.97808'
+'F1 Score:       0.7236460491269606'
